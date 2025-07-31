@@ -1,2 +1,2 @@
 # Julia-Script
-Script - tabelas
+Script
